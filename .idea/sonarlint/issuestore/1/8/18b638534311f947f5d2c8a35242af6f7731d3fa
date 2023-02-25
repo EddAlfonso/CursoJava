@@ -1,0 +1,22 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "resultado4".(ÉÔÀ›
+T
+java:S1854">Remove this useless assignment to local variable "resultado3".(ìÇ¾
+Y
+java:S1854">Remove this useless assignment to local variable "resultado2".(»ª±öşÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "resultado1".(ßşõÔ
+S
+java:S1854"=Remove this useless assignment to local variable "resultado".(¬¿—ª
+D
+java:S1481".Remove this unused "resultado" local variable.(¬¿—ª
+E
+java:S1481"/Remove this unused "resultado1" local variable.(ßşõÔ
+J
+java:S1481"/Remove this unused "resultado2" local variable.(»ª±öşÿÿÿÿ
+E
+java:S1481"/Remove this unused "resultado3" local variable.(ìÇ¾
+E
+java:S1481"/Remove this unused "resultado4" local variable.(ÉÔÀ›
+X	java:S125"<This block of commented-out lines of code should be removed.( ˆ»8ï–Ø÷à0
