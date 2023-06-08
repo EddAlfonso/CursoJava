@@ -23,5 +23,6 @@ class Coche {
 
     public void addPuertas(){
         numPuertas++;
+        //prueba
     }
 }
