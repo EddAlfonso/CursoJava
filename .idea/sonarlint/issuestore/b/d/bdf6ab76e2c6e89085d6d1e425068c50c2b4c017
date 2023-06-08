@@ -1,10 +1,0 @@
-
-S
-java:S1854"8Remove this useless assignment to local variable "car1".(ŽÇ¿Êüÿÿÿÿ
-D
-java:S1481")Remove this unused "car1" local variable.(ŽÇ¿Êüÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(Ðú&
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ç‰¹´ýÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¦»‚Õ
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(½À¶Àøÿÿÿÿ8ªö ÿç0
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(½À¶Àøÿÿÿÿ8›Ç¬ÿç0

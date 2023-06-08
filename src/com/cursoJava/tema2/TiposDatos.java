@@ -23,6 +23,5 @@ public class TiposDatos {
         //texto
         char var9 = 'a';
         String  var10 = "Hello world";
-
     }
 }
