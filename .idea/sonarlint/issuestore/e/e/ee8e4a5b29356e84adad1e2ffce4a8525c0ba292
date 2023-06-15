@@ -1,0 +1,40 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£È×ıüÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "var10".(üì—·úÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "var9".(Åˆ·
+N
+java:S1854"8Remove this useless assignment to local variable "var6".(Šª£è
+S
+java:S1854"8Remove this useless assignment to local variable "var5".(Íˆ¼úÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "var4".(Õ¥‚şşÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "var3".(ÒÈëşÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "var2".(ÛĞ›Œ
+N
+java:S1854
+"8Remove this useless assignment to local variable "var1".(Â¦Ÿø
+?
+java:S1481
+")Remove this unused "var1" local variable.(Â¦Ÿø
+?
+java:S1481")Remove this unused "var2" local variable.(ÛĞ›Œ
+D
+java:S1481")Remove this unused "var3" local variable.(ÒÈëşÿÿÿÿ
+D
+java:S1481")Remove this unused "var4" local variable.(Õ¥‚şşÿÿÿÿ
+D
+java:S1481")Remove this unused "var5" local variable.(Íˆ¼úÿÿÿÿ
+?
+java:S1481")Remove this unused "var6" local variable.(Šª£è
+?
+java:S1481")Remove this unused "var7" local variable.(Ôí¸¿
+D
+java:S1481")Remove this unused "var8" local variable.(À¬‚úÿÿÿÿ
+?
+java:S1481")Remove this unused "var9" local variable.(Åˆ·
+E
+java:S1481"*Remove this unused "var10" local variable.(üì—·úÿÿÿÿ
