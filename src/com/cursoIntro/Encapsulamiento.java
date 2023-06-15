@@ -4,7 +4,7 @@ public class Encapsulamiento {
     public static void main(String[] args) {
 
         // 4. Crear objeto Persona
-        Personsa persona1 = new Personsa();
+        Persona persona1 = new Persona();
 
         //5. Dar valores y mostrarlos
         persona1.setNombre("Edgar");
@@ -15,14 +15,13 @@ public class Encapsulamiento {
     }
 }
 // 1. Crear clase Persona
-class Personsa{
+class Persona{
     //2. Variables
     private int edad;
     private String nombre;
     private long telefono;
 
     //3. Getters and setters
-
     public int getEdad() {
         return edad;
     }
