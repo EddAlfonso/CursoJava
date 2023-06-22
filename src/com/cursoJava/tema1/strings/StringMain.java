@@ -1,4 +1,4 @@
-package com.cursoJava.tema1.Strings;
+package com.cursoJava.tema1.strings;
 
 public class StringMain {
     public static void main(String[] args) {

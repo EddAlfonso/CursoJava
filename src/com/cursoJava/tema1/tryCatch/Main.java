@@ -1,4 +1,4 @@
-package com.cursoJava.tema1.TryCatch;
+package com.cursoJava.tema1.tryCatch;
 
 public class Main {
 
